@@ -1,0 +1,52 @@
+[
+	{
+		"area" : "Indira Nagar",
+		"hotels": {
+					"1":   { "name" : "Bricklane Grill", "Speciality" : "Parsi and grilled dishes", "rating" : 4 },
+					"2":   { "name" : "Smoke House Deli", "Speciality" : "Italian and continental ", "rating" : 4 },
+					"3": { "name" : "Mamagoto", "Speciality" : "Pan-Asian menu ", "rating" : 4 },
+					"4":  { "name" : "Imli Cafe and Restaurant", "Speciality" : " Northern Indian dishes ", "rating" : 4 },
+					"5":  { "name" : "Khandani Rajdhani", "Speciality" : "Thali", "rating" : 3 }
+					}
+	},
+	{
+		"area" : "Kormangala",
+		"hotels": {
+					"1":   { "name" : "Barbeque Nation", "Speciality" : "Tasty starters", "rating" : 4 },
+					"2":   { "name" : "Bistro Claytopia", "Speciality" : "Burger", "rating" : 4 },
+					"3": { "name" : "Roots Restaurant", "Speciality" : "Northern Indian", "rating" : 4 },
+					"4":  { "name" : "The Great Indian Thali", "Speciality" : " Buffet ", "rating" : 4 },
+					"5":  { "name" : "China Pearl", "Speciality" : "Chinese", "rating" : 4 }
+					}
+	},
+	{
+		"area" : "Jayanagar",
+		"hotels": {
+					"1":   { "name" : "Eshanya", "Speciality" : "corn starter", "rating" : 4 },
+					"2":   { "name" : "Punjabi Raswada", "Speciality" : "Paratha", "rating" : 4 },
+					"3": { "name" : "1947 Restaurant", "Speciality" : "vegetarian dishes", "rating" : 4 },
+					"4":  { "name" : "Central Jail Restaurant", "Speciality" : "special dishes", "rating" : 4 },
+					"5":  { "name" : "Little Italy", "Speciality" : "Italian", "rating" : 4 }
+					}
+	},
+	{
+		"area" : "HSR Layout",
+		"hotels": {
+					"1":   { "name" : "Kitchen on Table", "Speciality" : "Buffet", "rating" : 4 },
+					"2":   { "name" : "Broadway - The Gourmet Theatre", "Speciality" : "Bamboo biryani", "rating" : 4 },
+					"3": { "name" : "Napoli Italian Bistro", "Speciality" : "Italian dishes and pizza", "rating" : 4 },
+					"4":  { "name" : "Fish and Fries Restaurant", "Speciality" : "English-influenced dishes", "rating" : 4 },
+					"5":  { "name" : "Helloo Delhi", "Speciality" : "Chats", "rating" : 4 }
+					}
+	},
+	{
+		"area" : "Banashankari",
+		"hotels": {
+					"1":   { "name" : "Casablanka", "Speciality" : "Romantic luncheon", "rating" : 4 },
+					"2":   { "name" : "Shetty Gardenia Hotel", "Speciality" : "Seafood", "rating" : 4 },
+					"3": { "name" : "Rasoi Restaurant", "Speciality" : "North indian foods", "rating" : 4 },
+					"4":  { "name" : "Chung Wah", "Speciality" : " Chinese", "rating" : 4 },
+					"5":  { "name" : "Tandoori Knight", "Speciality" : "Chicken", "rating" : 4 }
+					}
+	}
+]
