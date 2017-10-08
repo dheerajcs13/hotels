@@ -1,0 +1,50 @@
+body, html{
+	background : rgba(50,50,50,0.2);
+	text-align : center;
+	padding : 50px 0;
+}
+header{
+	margin : 10px 0px;
+	padding :0;
+	width : 100%;
+	text-align : center;
+	font-family : arial;
+	height: 60px;
+	background : rgba(0,50,190,0.5);
+}
+header h1 {
+	padding: 10px;
+}
+.container{
+	border : 1px solid ;
+	margin : auto;
+	text-align: center;
+	padding : 10px;
+	font-family : arial;
+	font-size : 20px;
+	height : 80px;
+}
+.container select {
+	font-family : arial;
+	font-size : 20px;
+	padding : 3px;
+	border-radius : 5px;
+	background : #f8f8f8;
+	color: 888;
+	border : none;
+	outline: none;
+	cursor : pointer;
+}
+#hotels table{
+	border : 1px solid black;
+	font-family: arial, sans-serif;
+	border-radius : 5px;
+	margin : 0 auto;
+}
+#hotels table td,th{
+	padding: 8px;
+	text-align : left;
+}
+.checked {
+    color: orange;
+}
