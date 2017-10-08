@@ -41,8 +41,8 @@ dataReq.onreadystatechange = function(){
 		},false);
 	}
 }
-
-dataReq.open('POST','http://localhost/hotel/data.txt');
+// change url according to location of file data.txt
+dataReq.open('POST','http://localhost/hotels/data.txt');
 dataReq.send();
 function ratings(a){
 	var star = "";
